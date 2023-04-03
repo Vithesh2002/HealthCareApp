@@ -3,7 +3,7 @@ package MODEL_CLASSES;
 import java.util.ArrayList;
 
 public class NewsModel {
-    //  https://newsapi.org/v2/top-headlines?country=in&category=health&apiKey=99701a83819b4675af200302f724fc20
+
 private String status;
 private String totalResults;
 ArrayList<articles> articles;
